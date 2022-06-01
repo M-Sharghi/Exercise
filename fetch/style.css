@@ -1,0 +1,11 @@
+
+.container{
+ position: relative;
+ padding-left: 30px;
+}
+
+
+.check{
+    position: absolute;
+    left: 5px;
+}
